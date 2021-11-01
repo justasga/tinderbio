@@ -90,13 +90,13 @@ a {
   }
 
   li {
-      padding: 5px;
+      padding: 5px 20px;
   }
 
   li:hover {
     text-decoration: underline;
     
-
+  }
   a:hover {
-    color: tomato; 
+    color: black;
   }
